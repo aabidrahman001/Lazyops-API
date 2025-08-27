@@ -2,7 +2,7 @@
 
 
 ## Project Metadata
-- Built with Java 121 (Spring Boot 3.5.5).
+- Built with Java 21 (Spring Boot 3.5.5).
 - Build Tool: Maven
 - Group: com.aabid
 - Artifact: lazyops
